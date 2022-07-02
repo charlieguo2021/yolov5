@@ -1,4 +1,5 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+# Adapted by Zixin Guo
 """
 Run inference on images, videos, directories, streams, etc.
 
